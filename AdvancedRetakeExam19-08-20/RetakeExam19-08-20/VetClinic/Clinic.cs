@@ -43,8 +43,8 @@ namespace VetClinic
             sb.AppendLine("The clinic has the following patients:");
             foreach (var item in this.data)
             {
-                sb.AppendLine($"Pet {item.Name} with owner: {item.Owner}"); // -Това работи - 100 / 100
-                //sb.AppendLine(item.ToString());  - Това не работи. 91/100 
+                //sb.AppendLine($"Pet {item.Name} with owner: {item.Owner}"); // -Това работи - 100 / 100
+                sb.AppendLine(item.ToString()); // -Това не работи. 91 / 100
             }
             return sb.ToString().TrimEnd();
         }
