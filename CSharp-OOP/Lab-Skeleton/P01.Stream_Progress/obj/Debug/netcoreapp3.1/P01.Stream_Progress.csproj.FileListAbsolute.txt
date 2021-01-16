@@ -1,0 +1,13 @@
+F:\С#-Advanced\CSharp-OOP\Lab-Skeleton\P01.Stream_Progress\bin\Debug\netcoreapp3.1\P01.Stream_Progress.exe
+F:\С#-Advanced\CSharp-OOP\Lab-Skeleton\P01.Stream_Progress\bin\Debug\netcoreapp3.1\P01.Stream_Progress.deps.json
+F:\С#-Advanced\CSharp-OOP\Lab-Skeleton\P01.Stream_Progress\bin\Debug\netcoreapp3.1\P01.Stream_Progress.runtimeconfig.json
+F:\С#-Advanced\CSharp-OOP\Lab-Skeleton\P01.Stream_Progress\bin\Debug\netcoreapp3.1\P01.Stream_Progress.runtimeconfig.dev.json
+F:\С#-Advanced\CSharp-OOP\Lab-Skeleton\P01.Stream_Progress\bin\Debug\netcoreapp3.1\P01.Stream_Progress.dll
+F:\С#-Advanced\CSharp-OOP\Lab-Skeleton\P01.Stream_Progress\bin\Debug\netcoreapp3.1\P01.Stream_Progress.pdb
+F:\С#-Advanced\CSharp-OOP\Lab-Skeleton\P01.Stream_Progress\obj\Debug\netcoreapp3.1\P01.Stream_Progress.csprojAssemblyReference.cache
+F:\С#-Advanced\CSharp-OOP\Lab-Skeleton\P01.Stream_Progress\obj\Debug\netcoreapp3.1\P01.Stream_Progress.AssemblyInfoInputs.cache
+F:\С#-Advanced\CSharp-OOP\Lab-Skeleton\P01.Stream_Progress\obj\Debug\netcoreapp3.1\P01.Stream_Progress.AssemblyInfo.cs
+F:\С#-Advanced\CSharp-OOP\Lab-Skeleton\P01.Stream_Progress\obj\Debug\netcoreapp3.1\P01.Stream_Progress.csproj.CoreCompileInputs.cache
+F:\С#-Advanced\CSharp-OOP\Lab-Skeleton\P01.Stream_Progress\obj\Debug\netcoreapp3.1\P01.Stream_Progress.dll
+F:\С#-Advanced\CSharp-OOP\Lab-Skeleton\P01.Stream_Progress\obj\Debug\netcoreapp3.1\P01.Stream_Progress.pdb
+F:\С#-Advanced\CSharp-OOP\Lab-Skeleton\P01.Stream_Progress\obj\Debug\netcoreapp3.1\P01.Stream_Progress.genruntimeconfig.cache

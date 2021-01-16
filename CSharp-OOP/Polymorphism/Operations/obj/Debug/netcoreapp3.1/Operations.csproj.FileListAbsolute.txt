@@ -1,0 +1,13 @@
+F:\С#-Advanced\CSharp-OOP\Polymorphism\Operations\bin\Debug\netcoreapp3.1\Operations.exe
+F:\С#-Advanced\CSharp-OOP\Polymorphism\Operations\bin\Debug\netcoreapp3.1\Operations.deps.json
+F:\С#-Advanced\CSharp-OOP\Polymorphism\Operations\bin\Debug\netcoreapp3.1\Operations.runtimeconfig.json
+F:\С#-Advanced\CSharp-OOP\Polymorphism\Operations\bin\Debug\netcoreapp3.1\Operations.runtimeconfig.dev.json
+F:\С#-Advanced\CSharp-OOP\Polymorphism\Operations\bin\Debug\netcoreapp3.1\Operations.dll
+F:\С#-Advanced\CSharp-OOP\Polymorphism\Operations\bin\Debug\netcoreapp3.1\Operations.pdb
+F:\С#-Advanced\CSharp-OOP\Polymorphism\Operations\obj\Debug\netcoreapp3.1\Operations.csprojAssemblyReference.cache
+F:\С#-Advanced\CSharp-OOP\Polymorphism\Operations\obj\Debug\netcoreapp3.1\Operations.AssemblyInfoInputs.cache
+F:\С#-Advanced\CSharp-OOP\Polymorphism\Operations\obj\Debug\netcoreapp3.1\Operations.AssemblyInfo.cs
+F:\С#-Advanced\CSharp-OOP\Polymorphism\Operations\obj\Debug\netcoreapp3.1\Operations.csproj.CoreCompileInputs.cache
+F:\С#-Advanced\CSharp-OOP\Polymorphism\Operations\obj\Debug\netcoreapp3.1\Operations.dll
+F:\С#-Advanced\CSharp-OOP\Polymorphism\Operations\obj\Debug\netcoreapp3.1\Operations.pdb
+F:\С#-Advanced\CSharp-OOP\Polymorphism\Operations\obj\Debug\netcoreapp3.1\Operations.genruntimeconfig.cache

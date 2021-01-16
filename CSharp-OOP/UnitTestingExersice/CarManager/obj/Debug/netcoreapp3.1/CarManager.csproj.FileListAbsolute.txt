@@ -1,0 +1,9 @@
+F:\С#-Advanced\CSharp-OOP\UnitTestingExersice\CarManager\bin\Debug\netcoreapp3.1\CarManager.deps.json
+F:\С#-Advanced\CSharp-OOP\UnitTestingExersice\CarManager\bin\Debug\netcoreapp3.1\CarManager.dll
+F:\С#-Advanced\CSharp-OOP\UnitTestingExersice\CarManager\bin\Debug\netcoreapp3.1\CarManager.pdb
+F:\С#-Advanced\CSharp-OOP\UnitTestingExersice\CarManager\obj\Debug\netcoreapp3.1\CarManager.csprojAssemblyReference.cache
+F:\С#-Advanced\CSharp-OOP\UnitTestingExersice\CarManager\obj\Debug\netcoreapp3.1\CarManager.AssemblyInfoInputs.cache
+F:\С#-Advanced\CSharp-OOP\UnitTestingExersice\CarManager\obj\Debug\netcoreapp3.1\CarManager.AssemblyInfo.cs
+F:\С#-Advanced\CSharp-OOP\UnitTestingExersice\CarManager\obj\Debug\netcoreapp3.1\CarManager.csproj.CoreCompileInputs.cache
+F:\С#-Advanced\CSharp-OOP\UnitTestingExersice\CarManager\obj\Debug\netcoreapp3.1\CarManager.dll
+F:\С#-Advanced\CSharp-OOP\UnitTestingExersice\CarManager\obj\Debug\netcoreapp3.1\CarManager.pdb

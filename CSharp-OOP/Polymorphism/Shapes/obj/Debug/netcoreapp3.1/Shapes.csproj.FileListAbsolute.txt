@@ -1,0 +1,13 @@
+F:\С#-Advanced\CSharp-OOP\Polymorphism\Shapes\obj\Debug\netcoreapp3.1\Shapes.csprojAssemblyReference.cache
+F:\С#-Advanced\CSharp-OOP\Polymorphism\Shapes\obj\Debug\netcoreapp3.1\Shapes.AssemblyInfoInputs.cache
+F:\С#-Advanced\CSharp-OOP\Polymorphism\Shapes\obj\Debug\netcoreapp3.1\Shapes.AssemblyInfo.cs
+F:\С#-Advanced\CSharp-OOP\Polymorphism\Shapes\obj\Debug\netcoreapp3.1\Shapes.csproj.CoreCompileInputs.cache
+F:\С#-Advanced\CSharp-OOP\Polymorphism\Shapes\bin\Debug\netcoreapp3.1\Shapes.exe
+F:\С#-Advanced\CSharp-OOP\Polymorphism\Shapes\bin\Debug\netcoreapp3.1\Shapes.deps.json
+F:\С#-Advanced\CSharp-OOP\Polymorphism\Shapes\bin\Debug\netcoreapp3.1\Shapes.runtimeconfig.json
+F:\С#-Advanced\CSharp-OOP\Polymorphism\Shapes\bin\Debug\netcoreapp3.1\Shapes.runtimeconfig.dev.json
+F:\С#-Advanced\CSharp-OOP\Polymorphism\Shapes\bin\Debug\netcoreapp3.1\Shapes.dll
+F:\С#-Advanced\CSharp-OOP\Polymorphism\Shapes\bin\Debug\netcoreapp3.1\Shapes.pdb
+F:\С#-Advanced\CSharp-OOP\Polymorphism\Shapes\obj\Debug\netcoreapp3.1\Shapes.dll
+F:\С#-Advanced\CSharp-OOP\Polymorphism\Shapes\obj\Debug\netcoreapp3.1\Shapes.pdb
+F:\С#-Advanced\CSharp-OOP\Polymorphism\Shapes\obj\Debug\netcoreapp3.1\Shapes.genruntimeconfig.cache

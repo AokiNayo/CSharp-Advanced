@@ -1,0 +1,13 @@
+F:\С#-Advanced\CSharp-OOP\Lab-Skeleton\P03.Detail_Printer\bin\Debug\netcoreapp3.1\P03.Detail_Printer.exe
+F:\С#-Advanced\CSharp-OOP\Lab-Skeleton\P03.Detail_Printer\bin\Debug\netcoreapp3.1\P03.Detail_Printer.deps.json
+F:\С#-Advanced\CSharp-OOP\Lab-Skeleton\P03.Detail_Printer\bin\Debug\netcoreapp3.1\P03.Detail_Printer.runtimeconfig.json
+F:\С#-Advanced\CSharp-OOP\Lab-Skeleton\P03.Detail_Printer\bin\Debug\netcoreapp3.1\P03.Detail_Printer.runtimeconfig.dev.json
+F:\С#-Advanced\CSharp-OOP\Lab-Skeleton\P03.Detail_Printer\bin\Debug\netcoreapp3.1\P03.Detail_Printer.dll
+F:\С#-Advanced\CSharp-OOP\Lab-Skeleton\P03.Detail_Printer\bin\Debug\netcoreapp3.1\P03.Detail_Printer.pdb
+F:\С#-Advanced\CSharp-OOP\Lab-Skeleton\P03.Detail_Printer\obj\Debug\netcoreapp3.1\P03.Detail_Printer.csprojAssemblyReference.cache
+F:\С#-Advanced\CSharp-OOP\Lab-Skeleton\P03.Detail_Printer\obj\Debug\netcoreapp3.1\P03.Detail_Printer.AssemblyInfoInputs.cache
+F:\С#-Advanced\CSharp-OOP\Lab-Skeleton\P03.Detail_Printer\obj\Debug\netcoreapp3.1\P03.Detail_Printer.AssemblyInfo.cs
+F:\С#-Advanced\CSharp-OOP\Lab-Skeleton\P03.Detail_Printer\obj\Debug\netcoreapp3.1\P03.Detail_Printer.csproj.CoreCompileInputs.cache
+F:\С#-Advanced\CSharp-OOP\Lab-Skeleton\P03.Detail_Printer\obj\Debug\netcoreapp3.1\P03.Detail_Printer.dll
+F:\С#-Advanced\CSharp-OOP\Lab-Skeleton\P03.Detail_Printer\obj\Debug\netcoreapp3.1\P03.Detail_Printer.pdb
+F:\С#-Advanced\CSharp-OOP\Lab-Skeleton\P03.Detail_Printer\obj\Debug\netcoreapp3.1\P03.Detail_Printer.genruntimeconfig.cache

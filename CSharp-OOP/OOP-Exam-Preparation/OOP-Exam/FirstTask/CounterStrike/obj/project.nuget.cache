@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "fuBZ/F5Kz3LkAmPSKe2LHfHuhawoZ4CXB6wi9yAA9YrCd9FpX/a/h2C28OpMyi98eKYfqUdB1tB+YDb0uD9O9g==",
+  "success": true,
+  "projectFilePath": "F:\\С#-Advanced\\CSharp-OOP\\OOP-Exam-Preparation\\OOP-Exam\\FirstTask\\CounterStrike\\CounterStrike.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nayo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Nayo\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Nayo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\Nayo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

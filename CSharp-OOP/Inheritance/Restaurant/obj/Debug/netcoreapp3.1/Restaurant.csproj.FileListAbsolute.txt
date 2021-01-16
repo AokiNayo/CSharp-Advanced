@@ -1,0 +1,13 @@
+F:\С#-Advanced\CSharp-OOP\Inheritance\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.exe
+F:\С#-Advanced\CSharp-OOP\Inheritance\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.deps.json
+F:\С#-Advanced\CSharp-OOP\Inheritance\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.runtimeconfig.json
+F:\С#-Advanced\CSharp-OOP\Inheritance\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.runtimeconfig.dev.json
+F:\С#-Advanced\CSharp-OOP\Inheritance\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.dll
+F:\С#-Advanced\CSharp-OOP\Inheritance\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.pdb
+F:\С#-Advanced\CSharp-OOP\Inheritance\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.AssemblyInfoInputs.cache
+F:\С#-Advanced\CSharp-OOP\Inheritance\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.AssemblyInfo.cs
+F:\С#-Advanced\CSharp-OOP\Inheritance\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.csproj.CoreCompileInputs.cache
+F:\С#-Advanced\CSharp-OOP\Inheritance\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.dll
+F:\С#-Advanced\CSharp-OOP\Inheritance\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.pdb
+F:\С#-Advanced\CSharp-OOP\Inheritance\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.genruntimeconfig.cache
+F:\С#-Advanced\CSharp-OOP\Inheritance\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.csprojAssemblyReference.cache

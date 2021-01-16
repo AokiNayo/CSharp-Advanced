@@ -1,0 +1,13 @@
+F:\С#-Advanced\CSharp-OOP\Lab-Skeleton\P04.Recharge\bin\Debug\netcoreapp3.1\P04.Recharge.exe
+F:\С#-Advanced\CSharp-OOP\Lab-Skeleton\P04.Recharge\bin\Debug\netcoreapp3.1\P04.Recharge.deps.json
+F:\С#-Advanced\CSharp-OOP\Lab-Skeleton\P04.Recharge\bin\Debug\netcoreapp3.1\P04.Recharge.runtimeconfig.json
+F:\С#-Advanced\CSharp-OOP\Lab-Skeleton\P04.Recharge\bin\Debug\netcoreapp3.1\P04.Recharge.runtimeconfig.dev.json
+F:\С#-Advanced\CSharp-OOP\Lab-Skeleton\P04.Recharge\bin\Debug\netcoreapp3.1\P04.Recharge.dll
+F:\С#-Advanced\CSharp-OOP\Lab-Skeleton\P04.Recharge\bin\Debug\netcoreapp3.1\P04.Recharge.pdb
+F:\С#-Advanced\CSharp-OOP\Lab-Skeleton\P04.Recharge\obj\Debug\netcoreapp3.1\P04.Recharge.csprojAssemblyReference.cache
+F:\С#-Advanced\CSharp-OOP\Lab-Skeleton\P04.Recharge\obj\Debug\netcoreapp3.1\P04.Recharge.AssemblyInfoInputs.cache
+F:\С#-Advanced\CSharp-OOP\Lab-Skeleton\P04.Recharge\obj\Debug\netcoreapp3.1\P04.Recharge.AssemblyInfo.cs
+F:\С#-Advanced\CSharp-OOP\Lab-Skeleton\P04.Recharge\obj\Debug\netcoreapp3.1\P04.Recharge.csproj.CoreCompileInputs.cache
+F:\С#-Advanced\CSharp-OOP\Lab-Skeleton\P04.Recharge\obj\Debug\netcoreapp3.1\P04.Recharge.dll
+F:\С#-Advanced\CSharp-OOP\Lab-Skeleton\P04.Recharge\obj\Debug\netcoreapp3.1\P04.Recharge.pdb
+F:\С#-Advanced\CSharp-OOP\Lab-Skeleton\P04.Recharge\obj\Debug\netcoreapp3.1\P04.Recharge.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+F:\С#-Advanced\CSharp-OOP\Reflection\Reflection\bin\Debug\netcoreapp3.1\Reflection.exe
+F:\С#-Advanced\CSharp-OOP\Reflection\Reflection\bin\Debug\netcoreapp3.1\Reflection.deps.json
+F:\С#-Advanced\CSharp-OOP\Reflection\Reflection\bin\Debug\netcoreapp3.1\Reflection.runtimeconfig.json
+F:\С#-Advanced\CSharp-OOP\Reflection\Reflection\bin\Debug\netcoreapp3.1\Reflection.runtimeconfig.dev.json
+F:\С#-Advanced\CSharp-OOP\Reflection\Reflection\bin\Debug\netcoreapp3.1\Reflection.dll
+F:\С#-Advanced\CSharp-OOP\Reflection\Reflection\bin\Debug\netcoreapp3.1\Reflection.pdb
+F:\С#-Advanced\CSharp-OOP\Reflection\Reflection\obj\Debug\netcoreapp3.1\Reflection.csprojAssemblyReference.cache
+F:\С#-Advanced\CSharp-OOP\Reflection\Reflection\obj\Debug\netcoreapp3.1\Reflection.AssemblyInfoInputs.cache
+F:\С#-Advanced\CSharp-OOP\Reflection\Reflection\obj\Debug\netcoreapp3.1\Reflection.AssemblyInfo.cs
+F:\С#-Advanced\CSharp-OOP\Reflection\Reflection\obj\Debug\netcoreapp3.1\Reflection.csproj.CoreCompileInputs.cache
+F:\С#-Advanced\CSharp-OOP\Reflection\Reflection\obj\Debug\netcoreapp3.1\Reflection.dll
+F:\С#-Advanced\CSharp-OOP\Reflection\Reflection\obj\Debug\netcoreapp3.1\Reflection.pdb
+F:\С#-Advanced\CSharp-OOP\Reflection\Reflection\obj\Debug\netcoreapp3.1\Reflection.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+F:\С#-Advanced\CSharp-OOP\EncapsulationExercise\EncapsulationExercise\bin\Debug\netcoreapp3.1\EncapsulationExercise.exe
+F:\С#-Advanced\CSharp-OOP\EncapsulationExercise\EncapsulationExercise\bin\Debug\netcoreapp3.1\EncapsulationExercise.deps.json
+F:\С#-Advanced\CSharp-OOP\EncapsulationExercise\EncapsulationExercise\bin\Debug\netcoreapp3.1\EncapsulationExercise.runtimeconfig.json
+F:\С#-Advanced\CSharp-OOP\EncapsulationExercise\EncapsulationExercise\bin\Debug\netcoreapp3.1\EncapsulationExercise.runtimeconfig.dev.json
+F:\С#-Advanced\CSharp-OOP\EncapsulationExercise\EncapsulationExercise\bin\Debug\netcoreapp3.1\EncapsulationExercise.dll
+F:\С#-Advanced\CSharp-OOP\EncapsulationExercise\EncapsulationExercise\bin\Debug\netcoreapp3.1\EncapsulationExercise.pdb
+F:\С#-Advanced\CSharp-OOP\EncapsulationExercise\EncapsulationExercise\obj\Debug\netcoreapp3.1\EncapsulationExercise.csprojAssemblyReference.cache
+F:\С#-Advanced\CSharp-OOP\EncapsulationExercise\EncapsulationExercise\obj\Debug\netcoreapp3.1\EncapsulationExercise.AssemblyInfoInputs.cache
+F:\С#-Advanced\CSharp-OOP\EncapsulationExercise\EncapsulationExercise\obj\Debug\netcoreapp3.1\EncapsulationExercise.AssemblyInfo.cs
+F:\С#-Advanced\CSharp-OOP\EncapsulationExercise\EncapsulationExercise\obj\Debug\netcoreapp3.1\EncapsulationExercise.csproj.CoreCompileInputs.cache
+F:\С#-Advanced\CSharp-OOP\EncapsulationExercise\EncapsulationExercise\obj\Debug\netcoreapp3.1\EncapsulationExercise.dll
+F:\С#-Advanced\CSharp-OOP\EncapsulationExercise\EncapsulationExercise\obj\Debug\netcoreapp3.1\EncapsulationExercise.pdb
+F:\С#-Advanced\CSharp-OOP\EncapsulationExercise\EncapsulationExercise\obj\Debug\netcoreapp3.1\EncapsulationExercise.genruntimeconfig.cache

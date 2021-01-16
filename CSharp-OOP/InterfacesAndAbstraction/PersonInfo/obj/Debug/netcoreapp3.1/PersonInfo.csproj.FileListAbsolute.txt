@@ -1,0 +1,13 @@
+F:\С#-Advanced\CSharp-OOP\InterfacesAndAbstraction\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.exe
+F:\С#-Advanced\CSharp-OOP\InterfacesAndAbstraction\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.deps.json
+F:\С#-Advanced\CSharp-OOP\InterfacesAndAbstraction\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.runtimeconfig.json
+F:\С#-Advanced\CSharp-OOP\InterfacesAndAbstraction\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.runtimeconfig.dev.json
+F:\С#-Advanced\CSharp-OOP\InterfacesAndAbstraction\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.dll
+F:\С#-Advanced\CSharp-OOP\InterfacesAndAbstraction\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.pdb
+F:\С#-Advanced\CSharp-OOP\InterfacesAndAbstraction\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.csprojAssemblyReference.cache
+F:\С#-Advanced\CSharp-OOP\InterfacesAndAbstraction\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.AssemblyInfoInputs.cache
+F:\С#-Advanced\CSharp-OOP\InterfacesAndAbstraction\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.AssemblyInfo.cs
+F:\С#-Advanced\CSharp-OOP\InterfacesAndAbstraction\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.csproj.CoreCompileInputs.cache
+F:\С#-Advanced\CSharp-OOP\InterfacesAndAbstraction\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.dll
+F:\С#-Advanced\CSharp-OOP\InterfacesAndAbstraction\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.pdb
+F:\С#-Advanced\CSharp-OOP\InterfacesAndAbstraction\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.genruntimeconfig.cache
